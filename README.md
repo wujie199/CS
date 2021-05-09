@@ -17,15 +17,13 @@
 <div align="center">
     <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png" width="200px">
 </div>
-
 <br>
 
 ## :pencil2: 算法
 
-- [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
+- [剑指 Offer 题解](https://github.com/wujie199/CS/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
 - [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
 - [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [jump](notes/MySQL.md)
 
 ## :computer: 操作系统
 
